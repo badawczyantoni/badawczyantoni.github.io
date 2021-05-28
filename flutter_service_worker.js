@@ -3,16 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "db8456316dd8dde5ef9d3d5d01179023",
-"assets/assets/10.jpg": "3461108c6f32c66854b007923d786b38",
-"assets/assets/11.jpg": "0032f2105025deb3e74038a3167cac92",
-"assets/assets/12.jpg": "d383673d1150d046b5ae27c7844e6ccb",
-"assets/assets/21.jpg": "3003ea9b1f4e354b02e47e15771b1c85",
-"assets/assets/22.jpg": "4d286ccc1fcee8d0706a04a0df860003",
-"assets/assets/23.jpg": "b90fd8c1f873cacb904606ae7d98f2c0",
-"assets/assets/24.jpg": "7ac7d4dcc9f1073cfe214ae5a1780499",
-"assets/assets/27.jpg": "b8a96dbe68ea2196db64de47d5a49dc6",
-"assets/assets/99.JPG": "d7fdadd545cf6f27dcecdc8b1bfa12c0",
+  "assets/AssetManifest.json": "1deafb1033c0015c2ef4c20db043e470",
 "assets/assets/eva.jpg": "28e2b32858b2462c66308efb9feb7690",
 "assets/assets/loading.png": "50bd105708bd3d4cfe6777d258f0ee8e",
 "assets/FontManifest.json": "c445569510abb210ec351fa816c0c30e",
@@ -41,7 +32,7 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "index.html": "234ee3300c12e3142fdadb739b7b8332",
 "/": "234ee3300c12e3142fdadb739b7b8332",
-"main.dart.js": "66c2d1f845e6dbefe63d208e3f797bb6",
+"main.dart.js": "615281fc982311bbb9999d05dde70112",
 "manifest.json": "5a2c0526f1fe73e6f211bc7a9d15c210",
 "version.json": "426313f2f3133c2f20415344c4a22df3"
 };
